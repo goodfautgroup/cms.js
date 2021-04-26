@@ -16,7 +16,7 @@ $(function() {
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+      { name: 'Github', href: 'https://github.com/goodfautgroup', newWindow: false},
       { name: 'About'}
     ],
 
@@ -54,8 +54,8 @@ $(function() {
     // If Github mode is set, your Github username and repo name. Defaults
     // to Github pages branch (gh-pages)
     githubUserSettings: {
-      username: 'yourusername',
-      repo: 'yourrepo'
+      username: 'goodfautgroup',
+      repo: 'cms.js'
     }
 
   });
